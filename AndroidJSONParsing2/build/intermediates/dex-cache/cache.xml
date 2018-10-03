@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\temp5\AndroidJSONParsing1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4bf1fc2947cfa0f8f279154a851bef795110b6f2">
+        <dex dex="C:\temp5\AndroidJSONParsing1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6b9e30ae9df401b66f31ffb1fcc17112a736c58\classes.dex" />
+    </item>
+    <item
+        jar="C:\temp5\AndroidJSONParsing1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4456f3fa3b961a00b010da2a421a6e9ac0d29383">
+        <dex dex="C:\temp5\AndroidJSONParsing1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_813e9e52272188bd30e38a13335a38baecdb06ce\classes.dex" />
+    </item>
+
+</items>

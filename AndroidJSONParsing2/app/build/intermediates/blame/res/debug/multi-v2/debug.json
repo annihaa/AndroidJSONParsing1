@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Anni\\AndroidStudioProjects\\AndroidJSONParsing1\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Anni\\AndroidStudioProjects\\AndroidJSONParsing1\\AndroidJSONParsing2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "135,59",
+                        "endColumns": "55,74",
+                        "endOffsets": "186,129"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,74",
+                        "endOffsets": "106,181"
+                    }
+                }
+            ]
+        }
+    ]
+}
